@@ -20,6 +20,6 @@ Danny is growing a Japanese restaurant, but he's missing the insights he needs t
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
-[View SQL code](
+[View SQL code](https://github.com/tos-in1/SQL-Projects/blob/master/Dannys_diner.sql)
 
 
