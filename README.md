@@ -15,6 +15,7 @@ Danny is growing a Japanese restaurant, but he's missing the insights he needs t
 4. Writing window functions (ROW_NUMBER(), RANK()) for ranking and partitioning data
 5. Using CASE statements for conditional logic within queries
 6. Structuring subqueries and derived tables for complex data analysis
+
 [View SQL code](https://github.com/tos-in1/SQL-Projects/blob/master/Dannys_diner.sql)
 
 
